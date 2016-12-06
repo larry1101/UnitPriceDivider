@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UnitPriceDivider</string>
+    <string name="app_title">单价计算器</string>
+</resources>

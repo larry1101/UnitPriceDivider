@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- title text color -->
+    <color name="primary_text_default_material_dark">#89837e</color>
+
+    <!-- button color -->
+    <color name="button_material_dark">#ff5a595b</color>
+    <color name="button_material_light">#f9d792</color>
+
+</resources>
